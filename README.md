@@ -1,9 +1,19 @@
 # front-end-web
 
-1. - HTML intro semantic HTML
-2. - CSS intro selectors, properties, and rules
-3. - JavaScript intro basic syntax getElementById() typography
-4. - CSS Position, Float, and Clear  grid
+1. - HTML intro 
+  - HTML, attributes, and values
+  - Semantic HTML
+2. - CSS intro 
+  - Basic CSS styles 
+  - Style Sheets
+  - CSS Selectors
+  - The Styles tag
+3. - JavaScript, Typography 
+   - Basic JS, syntax, getElementById()
+   - Typography line-height, letter-spacing, word-spacing
+4. - CSS Position
+  - CSS position, float, clear, %
+  - Introduce grid based design
 5. - CSS Animation 
 6. - Sketch
 7. - jQuery and more JavaScript techniques
