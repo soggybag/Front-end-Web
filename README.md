@@ -38,6 +38,9 @@
     - JSON 
     - jQuery 
     
+## Video Tutorials 
+
+- [Front End Web Playlist](https://goo.gl/z5fGaR)
 
 ## Projects
 
