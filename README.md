@@ -8,31 +8,36 @@
 
 ## Class outline
 
-- [Class 1](https://github.com/soggybag/Front-end-Web-Class-1) HTML intro 
+- [Class 1](https://github.com/soggybag/Front-end-Web-Class-1) 
   - HTML, attributes, and values
   - Semantic HTML
-- [Class 2](https://github.com/soggybag/Front-end-Web-Class-2) CSS intro 
-  - Basic CSS styles 
-  - Style Sheets
+- [Class 2](https://github.com/soggybag/Front-end-Web-Class-2) 
   - CSS Selectors
-  - The Styles tag
-- [Class 3](https://github.com/soggybag/Front-end-Web-Class-3) JavaScript 
-   - Basic JS, syntax, getElementById()
-   - Typography line-height, letter-spacing, word-spacing
-- [Class 4](https://github.com/soggybag/Front-end-Web-Class-4) CSS Float and layout
-  - CSS position, float, clear, %
-  - Introduce grid based design
-- [Class 5](https://github.com/soggybag/Front-end-Web-Class-5) CSS Position and Transition
+  - Basic CSS and Syntax
+- [Class 3](https://github.com/soggybag/Front-end-Web-Class-3)  
+   - JavaScript intro basic syntax
+- [Class 4](https://github.com/soggybag/Front-end-Web-Class-4) 
+  - CSS Box Model
+  - Float and clear
+- [Class 5](https://github.com/soggybag/Front-end-Web-Class-5) 
   - CSS Position absolute and relative
-  - CSS transition animate things
+  - CSS transitions
 - [Class 6](https://github.com/soggybag/Front-end-Web-Class-6) 
-- [Class 7](https://github.com/soggybag/Front-end-Web-Class-7) jQuery and more JavaScript techniques
+    - Designing with a grid
+    - Build a grid system with CSS
+- [Class 7](https://github.com/soggybag/Front-end-Web-Class-7) 
     - jQuery intro
-    - Handlebars templates
-    - Making SPA 
-- [Class 8](https://github.com/soggybag/Front-end-Web-Class-8) JSON
-- [Class 9](https://github.com/soggybag/Front-end-Web-Class-9) Handlebars JS templates 
-- [Class 10](https://github.com/soggybag/Front-end-Web-Class-10) Workshop? 
+    - Handlebars templates 
+- [Class 8](https://github.com/soggybag/Front-end-Web-Class-8) 
+    - Feedback and analysis
+    - Using Sketch intro
+- [Class 9](https://github.com/soggybag/Front-end-Web-Class-9)  
+    - Media Queries 
+    - Responsive design
+- [Class 10](https://github.com/soggybag/Front-end-Web-Class-10) 
+    - JSON 
+    - jQuery 
+    
 
 ## Projects
 
