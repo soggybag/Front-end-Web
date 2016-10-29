@@ -25,19 +25,22 @@
 - [Class 5](https://github.com/soggybag/Front-end-Web-Class-5) CSS Position and Transition
   - CSS Position absolute and relative
   - CSS transition animate things
-- [Class 6](https://github.com/soggybag/Front-end-Web-Class-6) Sketch
+- [Class 6](https://github.com/soggybag/Front-end-Web-Class-6) 
 - [Class 7](https://github.com/soggybag/Front-end-Web-Class-7) jQuery and more JavaScript techniques
+    - jQuery intro
+    - Handlebars templates
+    - Making SPA 
 - [Class 8](https://github.com/soggybag/Front-end-Web-Class-8) JSON
 - [Class 9](https://github.com/soggybag/Front-end-Web-Class-9) Handlebars JS templates 
 - [Class 10](https://github.com/soggybag/Front-end-Web-Class-10) Workshop? 
 
-## Project s
+## Projects
 
 - App Page 
   - A  single page landing/home page for one of your apps
 
 - Portfolio  
-  - Sketch portfolio 
-  - Layout 
-  - Style Guide 
-  - 
+    - A personal home page
+        - Info about yourself, skills, and experience
+        - Info and links to work apps and projects you have created
+
